@@ -1,0 +1,18 @@
+[
+  {
+    "img": "./assets/1.png",
+    "title": "image 1",
+    "desc": "c la description 1",
+    "price": "150 €",
+    "size": "45",
+    "like": "12"
+  },
+  {
+    "img": "./assets/2.png",
+    "title": "image 2",
+    "desc": "c la description 2",
+    "price": "80 €",
+    "size": "35",
+    "like": "6"
+  }
+]
